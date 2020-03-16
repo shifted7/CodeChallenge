@@ -1,5 +1,3 @@
-# CodeChallenge
-
 # Code Challenge 1: DSA Practice
 
 ## Problem 1: Array Max Result
